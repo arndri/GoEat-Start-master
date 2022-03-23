@@ -1,4 +1,4 @@
-GoEat Starting Files
+Responsive GoEat Landing Page
 Using Bootstrap
 
 
